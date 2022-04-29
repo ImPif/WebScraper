@@ -1,9 +1,9 @@
 from lib2to3.pgen2.token import DOT
 import urllib.request
 
-text_file = open("D:/Programming/FuckAroundShit/URL Scraper/test.txt", 'wb')
+text_file = open("URL Scraper/test.txt", 'wb')
 
-x = urllib.request.urlopen("https://www.sousetsuka.com/2018/05/okami-wa-nemuranai-12.html")
+x = urllib.request.urlopen("URL PlaceHolder")           #placeholder URL
 
 #mybytes = x.read()
 
